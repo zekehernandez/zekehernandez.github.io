@@ -11,14 +11,19 @@
 </script>
 
 <style>
-  h2,
-  .post-item-footer {
-    font-family: Rubik, sans-serif;
-    font-weight: 700;
+ 
+  .post-item-footer, .post-item-title{
+    font-family: Verdana, sans-serif;
+  }
+
+  .post-item-title {
+    font-size: 1.5em;
+    font-weight: 600;
   }
 
   .post-item-date {
     color: #AAA;
+    font-weight: 700;
     text-align: left;
     text-transform: uppercase;
     margin-right: 16px;
@@ -33,7 +38,7 @@
   <h1>Posts</h1>
   {#each posts as post, index}
     <div class="post-item">
-      <h2>
+      <h2 class="post-item-title">
         <a rel='prefetch' href='posts/{post.slug}'>{post.title}</a>
       </h2>
       <p>{post.excerpt}</p>

@@ -28,9 +28,9 @@
 
   header p {
     color: #AAA;
-    text-transform: uppercase;
-    font-family: Rubik, sans-serif;
+    font-family: Verdana, sans-serif;
     font-weight: 600;
+    font-size: 1em;
   }
 </style>
 
@@ -39,7 +39,7 @@
 </svelte:head>
 
 <header>
-  <p>{post.printDate} ~ {post.printReadingTime}</p>
+  <p>{post.printDate}</p>
   <h1>{post.title}</h1>
 </header>
 <div class="container">
