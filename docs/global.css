@@ -1,24 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Passion+One&display=swap');
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: Merriweather, serif;
+  font-family: 'Noto Serif', serif;
   font-size: 16px;
   line-height: 1.6;
   color: #36393b;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Rubik, sans-serif;
-  font-weight: 700;
+  font-family: 'Passion One', sans-serif;
+  font-weight: 500;
   line-height: 1.2;
   margin: 0 0 0.5em 0;
 }
 
 h1 {
-  font-family: Merriweather, serif;
+  font-family: 'Passion One', sans-serif;
   font-size: 4em;
   margin: 0 0 1em 0;
 }
