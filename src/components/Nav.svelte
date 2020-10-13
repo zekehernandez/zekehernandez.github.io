@@ -7,10 +7,10 @@
     align-items: flex-end;
     display: flex;
     flex: 1;
-    font-family: Rubik, sans-serif;
-    font-weight: 700;
+    font-family: Verdana, sans-serif;
+    /* font-weight: 700; */
     justify-content: flex-end;
-    text-transform: uppercase;
+    /* text-transform: uppercase;/ */
   }
 
   a {
@@ -49,7 +49,7 @@
 </style>
 
 <nav>
-  <a class='{segment === undefined ? "selected" : ""}' href='.'>home</a>
-  <a class='{segment === "about" ? "selected" : ""}' href='about'>about</a>
-  <a rel=prefetch class='{segment === "posts" ? "selected" : ""}' href='posts'>posts</a>
+  <a class='{segment === undefined ? "selected" : ""}' href='.'>Home</a>
+  <a class='{segment === "about" ? "selected" : ""}' href='about'>About</a>
+  <a rel=prefetch class='{segment === "posts" ? "selected" : ""}' href='posts'>Posts</a>
 </nav>

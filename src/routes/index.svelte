@@ -13,7 +13,6 @@
   }
 
   h1 {
-    font-weight: 700;
     margin-bottom: 0.5em;
   }
 
@@ -38,7 +37,7 @@
 
   @media (max-width: 1020px) {
     span {
-      font-size: 1.2em;
+      font-size: 1em;
     }
 
     img {

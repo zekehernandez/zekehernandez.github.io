@@ -46,7 +46,7 @@
 
   <footer>
     <span>
-      &copy; {new Date().getFullYear()} Zeke's Site.
+      &copy; {new Date().getFullYear()} Zeke Hernandez.
       Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
       Template by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>.
     </span>
