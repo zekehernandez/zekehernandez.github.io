@@ -29,5 +29,5 @@
   </figure>
   <p>I'm a software engineer, I love to make robust software that's enjoyable to use.</p>
   <p>Front-end development is my specialty, React is my framework of choice.</p>
-  <p>I'm currently located in Minnesota working for Calabrio as a Senior Software Engineer.</p>
+  <p>I'm currently located in Minnesota working for <a href="https://www.collage.com/">Collage.com</a> as a Senior Software Engineer.</p>
 </div>

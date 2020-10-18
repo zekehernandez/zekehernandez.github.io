@@ -6,4 +6,4 @@
 
 ## Publish
 - `npm run export`
-- `npm serve __sapper__/export`
+- `npx serve __sapper__/export`
