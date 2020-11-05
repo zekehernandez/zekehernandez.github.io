@@ -24,8 +24,7 @@
 <div class="container">
   <h1>About Me</h1>
   <figure>
-    <img src='unnamed.jpg' alt='Me several years ago.'>
-    <figcaption>Me several years ago.</figcaption>
+    <img src='profile.jpg' alt='Me several years ago.'>
   </figure>
   <p>I'm a software engineer, I love to make robust software that's enjoyable to use.</p>
   <p>Front-end development is my specialty, React is my framework of choice.</p>
